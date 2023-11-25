@@ -26,5 +26,3 @@ To run this project locally, follow these steps:
    cd Netflix-login-page-clone
 3. **Open the index.html file in your preferred browser.**
 ```
-
-These markdown lines provide clear instructions for navigating to the project directory and opening the `index.html` file in a preferred browser for running the project locally. Adjust as needed based on your project's file structure or any additional steps required.

@@ -25,4 +25,3 @@ To run this project locally, follow these steps:
    ```bash
    cd Netflix-login-page-clone
 3. **Open the index.html file in your preferred browser.**
-```

@@ -20,3 +20,11 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/chinmayjha/Netflix-login-page-clone.git
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd Netflix-login-page-clone
+3. **Open the index.html file in your preferred browser.**
+```
+
+These markdown lines provide clear instructions for navigating to the project directory and opening the `index.html` file in a preferred browser for running the project locally. Adjust as needed based on your project's file structure or any additional steps required.
